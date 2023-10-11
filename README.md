@@ -10,6 +10,8 @@ The following presents a comprehensive list of the courses I successfully comple
 | Natural Language Processing (AS 2022)                  | [:earth_africa:](https://rycolab.io/classes/intro-nlp-f22/)   |       [:books:](https://github.com/majkevh/eth-math-stats/blob/main/notes/nlpscript.pdf)      |               |   |
 | Graph Theory   (FS 2023)               |  |    [:books:](https://github.com/majkevh/eth-math-stats/blob/main/notes/lecturenotes.pdf)         |   | |
 | Statistical Learning Theory  (FS 2023)                | [:earth_africa:](https://ml2.inf.ethz.ch/courses/slt/)   | [:books:](https://github.com/carloscotrini/slt_script)      |   [:page_with_curl:](https://github.com/majkevh/eth-math-stats/blob/main/cheatsheets/summaryslt.pdf)       |  [:mortar_board:](https://github.com/majkevh/eth-stats-learning-fs23) |
+| Network & Integer Optimization  (FS 2023)                |  | [:books:](https://github.com/majkevh/eth-math-stats/blob/main/notes/scriptnio.pdf)     |          |   |
+| Topological Data Analysis  (FS 2023)                | [:earth_africa:](https://ti.inf.ethz.ch/ew/courses/TDA23/index.html)   | [:books:](https://github.com/majkevh/eth-math-stats/blob/main/notes/scripttda.pdf)     |          |  [:mortar_board:](https://github.com/majkevh/eth-tda-fs23)  |
 
 *NLP Projects and summary can't be uploaded yet by request from the professor himself.
 
