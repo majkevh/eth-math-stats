@@ -13,6 +13,9 @@ The following presents a comprehensive list of the courses I successfully comple
 | Statistical Learning Theory  (FS 2023)                | [:earth_africa:](https://ml2.inf.ethz.ch/courses/slt/)   | [:books:](https://github.com/carloscotrini/slt_script)      |   [:page_with_curl:](https://github.com/majkevh/eth-math-stats/blob/main/cheatsheets/summaryslt.pdf)       |  [:mortar_board:](https://github.com/majkevh/eth-stats-learning-fs23) |
 | Network & Integer Optimization  (FS 2023)                |  | [:books:](https://github.com/majkevh/eth-math-stats/blob/main/notes/scriptnio.pdf)     |          |   |
 | Topological Data Analysis  (FS 2023)                | [:earth_africa:](https://ti.inf.ethz.ch/ew/courses/TDA23/index.html)   | [:books:](https://github.com/majkevh/eth-math-stats/blob/main/notes/scripttda.pdf)     |          |  [:mortar_board:](https://github.com/majkevh/eth-tda-fs23)  |
+| Advanced Topics in Machine Learning  (AS 2023)                |   |    |   [:page_with_curl:](https://github.com/majkevh/eth-math-stats/blob/main/notes/s_AML_Presentation.pdf)         |  |
+| Guarantees in Machine Learning  (AS 2023)                |  [:earth_africa:](https://sml.inf.ethz.ch/gml23/syllabus.html)  |  [:books:](https://github.com/majkevh/eth-math-stats/blob/main/notes/gmllectures.pdf)       |   | [:mortar_board:](https://github.com/majkevh/eth-math-stats/blob/main/notes/GML___Assignments.pdf)    |
+| Probabilistic Artificial Intelligence (AS 2023)                |  [:earth_africa:](https://las.inf.ethz.ch/teaching/pai-f23)  |  [:books:](https://github.com/majkevh/eth-math-stats/blob/main/notes/PAIextended.pdf)       |  [:page_with_curl:](https://github.com/majkevh/eth-math-stats/blob/main/cheatsheets/PAIcheat.pdf)   | [:mortar_board:](https://github.com/majkevh/eth-pai-as23)    |
 
 *NLP Projects and summary can't be uploaded yet by request from the professor himself.
 
